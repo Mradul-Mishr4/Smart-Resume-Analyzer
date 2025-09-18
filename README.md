@@ -29,7 +29,7 @@
 
 ## 🌟 Overview
 
-**CareerCraft AI** is a cutting-edge resume analysis platform that transforms how professionals approach their career development. Leveraging advanced artificial intelligence, our platform provides comprehensive resume evaluation, ATS compatibility scoring, and personalized optimization recommendations.
+**Resume-AI-Pro** is a cutting-edge resume analysis platform that transforms how professionals approach their career development. Leveraging advanced artificial intelligence, our platform provides comprehensive resume evaluation, ATS compatibility scoring, and personalized optimization recommendations.
 
 Built with modern web technologies and featuring a stunning dark-themed interface, CareerCraft AI delivers enterprise-grade functionality with an exceptional user experience.
 
