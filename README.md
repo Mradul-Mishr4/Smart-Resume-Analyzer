@@ -1,147 +1,272 @@
+
+
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=iYOz165wGkQ" target="_blank">
-      <img src="public/readme/hero.webp" alt="Project Banner">
-    </a>
+  <img src="https://img.shields.io/badge/CareerCraft%20AI-Professional%20Resume%20Analyzer-6366f1?style=for-the-badge&logo=sparkles&logoColor=white" alt="CareerCraft AI">
   <br />
-
+  <br />
+  
+  <h1>🚀  Resume-AI-Pro</h1>
+  <p><strong>Next-Generation AI-Powered Resume Analysis Platform</strong></p>
+  
   <div>
-    <img alt="Static Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+    <img alt="Puter.js" src="https://img.shields.io/badge/Puter.js-7C3AED?style=for-the-badge&logo=javascript&logoColor=white">
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
   </div>
 
-  <h3 align="center">CareerCraft AI - Resume Analyzer</h3>
-
-   <div align="center">
-     A modern, AI-powered resume analysis tool that helps job seekers optimize their resumes for better career opportunities.
-    </div>
+  <p align="center">
+    <a href="#features"><strong>🔋 Features</strong></a> •
+    <a href="#quick-start"><strong>🚀 Quick Start</strong></a> •
+    <a href="#tech-stack"><strong>⚙️ Tech Stack</strong></a> •
+    <a href="#demo"><strong>🎯 Demo</strong></a>
+  </p>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+---
 
-1. ✨ [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
+## 🌟 Overview
 
-## 🚨 Tutorial
+**CareerCraft AI** is a cutting-edge resume analysis platform that transforms how professionals approach their career development. Leveraging advanced artificial intelligence, our platform provides comprehensive resume evaluation, ATS compatibility scoring, and personalized optimization recommendations.
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+Built with modern web technologies and featuring a stunning dark-themed interface, CareerCraft AI delivers enterprise-grade functionality with an exceptional user experience.
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+### ✨ Why Choose CareerCraft AI?
 
-<a href="https://www.youtube.com/watch?v=iYOz165wGkQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+- 🎯 **Smart ATS Optimization** - Real-time compatibility scoring for Applicant Tracking Systems
+- 🤖 **AI-Powered Insights** - Advanced algorithms analyze content, structure, and presentation
+- 🔒 **Privacy-First** - Secure cloud storage with browser-based authentication
+- 🎨 **Modern Interface** - Professional dark theme with glassmorphism effects
+- ⚡ **Instant Results** - Real-time analysis and feedback generation
+- 📱 **Cross-Platform** - Fully responsive design for all devices
 
-## <a name="introduction">✨ Introduction</a>
+---
 
-CareerCraft AI is a sophisticated resume analysis platform that leverages artificial intelligence to help professionals optimize their resumes for today's competitive job market. Built with React, TypeScript, and Puter.js, this application provides comprehensive resume evaluation, ATS compatibility scoring, and personalized feedback to enhance your career prospects. The platform features secure cloud storage, real-time analysis, and a modern dark-themed interface designed for professional use.
+## <a name="features">🔋 Core Features</a>
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+### 🔐 **Seamless Authentication**
+- Browser-based auth using Puter.js
+- No backend setup required
+- Secure session management
 
-- **[React](https://react.dev/)** is a popular open‑source JavaScript library for building user interfaces using reusable components and a virtual DOM, enabling efficient, dynamic single-page and native apps.
+### 📄 **Intelligent Resume Processing**
+- PDF upload with drag-and-drop interface
+- Automatic text extraction and parsing
+- Real-time processing feedback
 
-- **[React Router v7](https://reactrouter.com/)** is the go‑to routing library for React apps, offering nested routes, data loaders/actions, error boundaries, code splitting, and SSR support—all with a smooth upgrade path from v6.
+### 🧠 **AI-Powered Analysis**
+- Content quality assessment
+- Skills gap identification
+- Industry-specific recommendations
+- Tone and language optimization
 
-- **[Puter.com](https://jsm.dev/resumind-puter)** is an advanced, open-source internet operating system designed to be feature-rich, exceptionally fast, and highly extensible. Puter can be used as: A privacy-first personal cloud to keep all your files, apps, and games in one secure place, accessible from anywhere at any time.
+### 📊 **ATS Compatibility Scoring**
+- Real-time ATS score calculation
+- Keyword optimization suggestions
+- Format compatibility checks
+- Industry benchmarking
 
-- **[Puter.js](https://jsm.dev/resumind-puterjs)** is a tiny client‑side SDK that adds serverless auth, storage, database, and AI (GPT, Claude, DALL·E, OCR…) straight into your browser app—no backend needed and costs borne by users.
+### 🎨 **Professional Design System**
+- **Midnight Aurora Theme** - Custom dark theme with purple-to-teal gradients
+- **Glassmorphism Effects** - Modern backdrop blur and transparency
+- **Micro-interactions** - Smooth animations and hover effects
+- **Responsive Layout** - Optimized for desktop, tablet, and mobile
 
-- **[Tailwind CSS](https://tailwindcss.com/)** is a utility-first CSS framework that allows developers to design custom user interfaces by applying low-level utility classes directly in HTML, streamlining the design process.
+### 💾 **Secure Storage & Management**
+- Cloud-based resume storage
+- Version history tracking
+- Bulk operations support
+- Privacy-first architecture
 
-- **[TypeScript](https://www.typescriptlang.org/)** is a superset of JavaScript that adds static typing, providing better tooling, code quality, and error detection for developers, making it ideal for building large-scale applications.
+---
 
-- **[Vite](https://vite.dev/)** is a fast build tool and dev server using native ES modules for instant startup, hot‑module replacement, and Rollup‑powered production builds—perfect for modern web development.
+## <a name="tech-stack">⚙️ Technology Stack</a>
 
-- **[Zustand](https://github.com/pmndrs/zustand)** is a minimal, hook-based state management library for React. It lets you manage global state with zero boilerplate, no context providers, and excellent performance through selective state subscriptions.
+### **Frontend Framework**
+- **[React 19](https://react.dev/)** - Latest version with concurrent features
+- **[TypeScript](https://www.typescriptlang.org/)** - Type-safe development
+- **[React Router v7](https://reactrouter.com/)** - Advanced routing with SSR support
 
-## <a name="features">🔋 Features</a>
+### **Styling & UI**
+- **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework
+- **Custom Design System** - Professional dark theme with glassmorphism
+- **Responsive Design** - Mobile-first approach
 
-👉 **Easy & convenient auth**: Handle authentication entirely in the browser using Puter.js—no backend or setup required.
+### **Backend & AI**
+- **[Puter.com](https://puter.com)** - Open-source internet operating system
+- **[Puter.js SDK](https://docs.puter.com/sdk)** - Serverless auth, storage, and AI
+- **AI Integration** - Advanced resume analysis algorithms
 
-👉 **Resume upload & storage**: Let users upload and store all their resumes in one place, safely and reliably.
+### **Development Tools**
+- **[Vite](https://vite.dev/)** - Fast build tool and dev server
+- **[Zustand](https://github.com/pmndrs/zustand)** - Minimal state management
+- **ESLint & Prettier** - Code quality and formatting
 
-👉 **AI resume matching**: Provide a job listing and get an ATS score with custom feedback tailored to each resume.
+---
 
-👉 **Reusable, modern UI**: Built with clean, consistent components for a great-looking and maintainable interface.
+## <a name="quick-start">🚀 Quick Start Guide</a>
 
-👉 **Code Reusability**: Leverage reusable components and a modular codebase for efficient development.
+### **Prerequisites**
 
-👉 **Cross-Device Compatibility**: Fully responsive design that works seamlessly across all devices.
+Ensure you have the following installed:
 
-👉 **Modern UI/UX**: Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
+```bash
+Node.js (v18 or higher)
+npm or yarn
+Git
+```
 
-And many more, including code architecture and reusability.
+### **Installation**
 
-## <a name="quick-start">🤸 Quick Start</a>
-
-Follow these steps to set up the project locally on your machine.
-
-**Prerequisites**
-
-Make sure you have the following installed on your machine:
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
-**Cloning the Repository**
-
+1. **Clone the repository**
 ```bash
 git clone https://github.com/yourusername/careercraft-ai.git
 cd careercraft-ai
 ```
 
-**Installation**
-
-Install the project dependencies using npm:
-
+2. **Install dependencies**
 ```bash
 npm install
+# or
+yarn install
 ```
 
-**Running the Project**
-
+3. **Start development server**
 ```bash
 npm run dev
+# or
+yarn dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+4. **Open in browser**
+Navigate to [http://localhost:5176](http://localhost:5176)
 
-**Installation**
-
-Install the project dependencies using npm:
+### **Production Build**
 
 ```bash
-npm install
+npm run build
+npm run preview
 ```
 
-**Running the Project**
+---
 
-```bash
-npm run dev
+## <a name="demo">🎯 Demo & Screenshots</a>
+
+### 🏠 **Home Dashboard**
+- Modern hero section with animated gradients
+- Resume gallery with ATS scores
+- Professional card-based layout
+
+### 📤 **Upload Interface**
+- Intuitive drag-and-drop functionality
+- Real-time upload progress
+- File validation and error handling
+
+### 📊 **Analysis Results**
+- Comprehensive ATS scoring dashboard
+- Detailed feedback sections
+- Interactive improvement recommendations
+
+### 📱 **Mobile Experience**
+- Fully responsive design
+- Touch-optimized interactions
+- Consistent experience across devices
+
+---
+
+## 🛠️ **Project Structure**
+
+```
+careercraft-ai/
+├── app/
+│   ├── components/         # Reusable UI components
+│   ├── routes/            # Application routes
+│   ├── utils/             # Utility functions
+│   └── app.css           # Global styles
+├── public/               # Static assets
+├── tailwind.config.js    # Tailwind configuration
+├── vite.config.js       # Vite configuration
+└── package.json         # Dependencies
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+---
 
-## <a name="links">🔗 Assets</a>
+## 🎨 **Design System**
 
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/resumind-kit)**.
+### **Color Palette**
+- **Primary**: Purple gradients (`#a855f7` to `#6366f1`)
+- **Secondary**: Teal accents (`#2dd4bf`)
+- **Background**: Dark slate (`#0f172a` to `#1e293b`)
+- **Success**: Emerald (`#22c55e`)
+- **Warning**: Orange (`#f97316`)
 
-<a href="https://jsm.dev/resumind-kit" target="_blank">
-  <img src="public/readme/videokit.webp" alt="Video Kit Banner">
-</a>
+### **Typography**
+- **Headings**: Poppins (300-900 weights)
+- **Body**: Inter (optimized for readability)
+- **Code**: JetBrains Mono
 
-## <a name="more">🚀 More</a>
+### **Components**
+- Glass-morphism cards with backdrop blur
+- Gradient buttons with hover animations
+- Modern form inputs with focus states
+- Loading spinners with brand colors
 
-**Advance your skills with Next.js Pro Course**
+---
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+## 🔧 **Configuration**
 
-<a href="https://jsm.dev/resumind-courses" target="_blank">
-  <img src="public/readme/jsmpro.webp" alt="Project Banner">
-</a>
+### **Environment Variables**
+Create a `.env.local` file:
+
+```env
+VITE_APP_NAME=CareerCraft AI
+VITE_PUTER_API_URL=https://api.puter.com
+```
+
+### **Tailwind Configuration**
+Custom theme extends with brand colors and utilities.
+
+---
+
+## 🤝 **Contributing**
+
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+---
+
+## 📄 **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 **Acknowledgments**
+
+- **[Puter.com](https://puter.com)** for the amazing backend infrastructure
+- **[Tailwind CSS](https://tailwindcss.com)** for the utility-first CSS framework
+- **[React Team](https://react.dev)** for the incredible frontend library
+- **Open Source Community** for continuous inspiration
+
+---
+
+## 📞 **Support & Contact**
+
+- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/careercraft-ai/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/careercraft-ai/discussions)
+- 📧 **Email**: support@careercraft-ai.com
+- 🌐 **Website**: [careercraft-ai.com](https://careercraft-ai.com)
+
+---
+
+<div align="center">
+  <p>Built with ❤️ by Mradul Mishra</p>
+  <p>⭐ Star us on GitHub if this project helped you!</p>
+</div>
